@@ -15,6 +15,7 @@ server <- function(input, output, session) {
     #   filePrefix = "out"
     # )
     
+    outdir <- "2.output"
     
     data_path <- input$dataFile$datapath
     group_path <- input$groupFile$datapath
@@ -23,8 +24,8 @@ server <- function(input, output, session) {
     width <- input$plotWidth
     colorUser <- input$colorUser
     
-    if(file.exists("2.output")){unlink("2.output")}
-    if(!file.exists("2.output")){dir.create("2.output")}
+    if(file.exists(outdir)){unlink(outdir)}
+    if(!file.exists(outdir)){dir.create(outdir)}
 
 
     showNotification("开始计算")
@@ -32,8 +33,8 @@ server <- function(input, output, session) {
     input_df <- get_data(data_path,group_path)
     pca_calculate <- get_pca(input_df$data,input_df$group)
     
-    write.table(pca_calculate$pca$x,          file = paste0("2.output/", prefix, ".pcx.txt"),        col.names = NA, row.names = TRUE, sep = "\t", quote = FALSE)
-    write.table(pca_calculate$pca$importance, file = paste0("2.output/", prefix, ".proportion.txt"), col.names = NA, row.names = TRUE, sep = "\t", quote = FALSE)
+    write.table(pca_calculate$pca$x,          file = paste0(outdir,"/", prefix, ".pcx.txt"),        col.names = NA, row.names = TRUE, sep = "\t", quote = FALSE)
+    write.table(pca_calculate$pca$importance, file = paste0(outdir,"/", prefix, ".proportion.txt"), col.names = NA, row.names = TRUE, sep = "\t", quote = FALSE)
     
     showNotification("开始画2D图")
     
@@ -47,8 +48,8 @@ server <- function(input, output, session) {
     output$pca2DPlot <- renderPlotly({
       g_html # <- ggplotly(plot_pca2d(pca_calculate$pca_df,"sample",colors)) # ggplotly(pca2d_g)
     })
-    save_pca2d(pca_calculate, colors, paste0("2.output/",prefix), height, width )
-    saveWidget(as_widget(g_html), file=paste0("2.output/",prefix,".html"))
+    save_pca2d(pca_calculate, colors, paste0(outdir,"/",prefix), height, width )
+    saveWidget(as_widget(g_html), file=paste0(outdir,"/",prefix,".html"))
     
     showNotification("开始画3D图")
     
@@ -59,10 +60,10 @@ server <- function(input, output, session) {
     output$pca3DPlot <- renderPlotly({
       p3d
     })
-    htmlwidgets::saveWidget(plotly::as_widget(p3d), file=paste0("2.output/",prefix,".3d.html"))
+    htmlwidgets::saveWidget(plotly::as_widget(p3d), file=paste0(outdir,"/",prefix,".3d.html"))
     
     
-    plot_3d(pca_calculate,colors_3d,prefix,height,width)
+    plot_3d(pca_calculate,colors_3d,prefix,height,width,outdir)
     
     showNotification("开始画var图")
     
@@ -72,8 +73,8 @@ server <- function(input, output, session) {
       gVar
     })
     
-    ggsave(paste0("2.output/",prefix,".var.png"),gVar,height=height,width=width, units="in", dpi=300)
-    ggsave(paste0("2.output/", prefix,".var.pdf"),gVar,height=height,width=width)
+    ggsave(paste0(outdir,"/",prefix,".var.png"),gVar,height=height,width=width, units="in", dpi=300)
+    ggsave(paste0(outdir,"/", prefix,".var.pdf"),gVar,height=height,width=width)
     
     
     showNotification("运行完成")
@@ -85,7 +86,7 @@ server <- function(input, output, session) {
       },
       content = function(file) {
         tempdir <- tempdir()
-        files <- list.files("2.output", full.names = TRUE)
+        files <- list.files(outdir, full.names = TRUE)
         zip::zip(file, files)
       }
     )

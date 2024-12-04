@@ -113,10 +113,10 @@ plot_var <- function(pca_summary){
 }
 
 
-plot_3d <- function(pca_calculate,colors_3d,prefix,height,width){
-     pdf(file=paste0("2.output/", prefix,".3d.pdf"),height=height,width=width)
+plot_3d <- function(pca_calculate,colors_3d,prefix,height,width,outdir){
+    pdf(file=paste0(outdir,"/", prefix,".3d.pdf"),height=height,width=width)
     a<-dev.cur()
-    png(file=paste0("2.output/", prefix,".3d.png"),height=height,width=width, units="in", res=300)
+    png(file=paste0(outdir,"/", prefix,".3d.png"),height=height,width=width, units="in", res=300)
     dev.control("enable")
     suppressWarnings(scatterplot3d(pca_calculate$pca_df[2:4], angle=60, pch=19,
                                 mar=c(5, 5, 5, 5),color=colors_3d,

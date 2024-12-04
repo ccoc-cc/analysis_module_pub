@@ -28,13 +28,13 @@
 
 RStudio：目前公认最好的 R 语言 IDE。
 
-R语言：[https://mirrors.tuna.tsinghua.edu.cn/CRAN/](https://mirrors.tuna.tsinghua.edu.cn/CRAN/ "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")
+R语言：[清华镜像下载-Windows](https://mirrors.tuna.tsinghua.edu.cn/CRAN/bin/windows/base/); [其他版本](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)
 
-Rstudio下载：[https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/ "https://posit.co/download/rstudio-desktop/")
+Rstudio下载：[rstudio-desktop](https://posit.co/download/rstudio-desktop/)
 
-RTools：[https://cran.rstudio.com/bin/windows/Rtools/](https://cran.rstudio.com/bin/windows/Rtools/ "https://cran.rstudio.com/bin/windows/Rtools/")
+RTools(仅windows)：[Rtools-windows](https://cran.rstudio.com/bin/windows/Rtools/)
 
-下载完成后双击打开，推荐全部使用默认设置，直接下一步。
+下载完成后双击打开，**推荐全部使用默认设置**，直接下一步；**更改了安装路径的，出问题自己解决**。
 
 ## 基础设置
 
@@ -72,7 +72,6 @@ pak::pkg_install('esquisse')
 pak::pkg_install('ggplotAssist')
 pak::pkg_install('ggThemeAssist')
 pak::pkg_install('ggplotgui')
-
 ```
 
 ### 导入数据
