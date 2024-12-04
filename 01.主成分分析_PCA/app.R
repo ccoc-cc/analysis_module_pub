@@ -19,7 +19,7 @@ check_and_install <- function(pkg_info) {
   library(pkg, character.only = TRUE)
 }
 
-packages <- c("shiny", "tidyverse", "dplyr", "ggrepel", "scatterplot3d", "plotly", "htmlwidgets", "RColorBrewer", "logging")
+packages <- c("shiny", "tidyverse", "dplyr", "ggrepel", "scatterplot3d", "plotly", "htmlwidgets", "RColorBrewer", "logging", "ggrepel")
 
 for (pkg in packages) { check_and_install(pkg) }
 
