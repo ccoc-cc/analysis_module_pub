@@ -2,25 +2,17 @@
 #----检查、安装、加载R包----
 #----第一次运行会很慢，因为要下载安装----
 
-check_and_install <- function(pkg_info) {
-  info = strsplit(pkg_info,":")[[1]]
-  pkg  = info[1]
-  type = ifelse(length(info)>1,info[2],"cran")
-  if (!requireNamespace(pkg, quietly = TRUE, ask="no")) {
-    if(type == "cran"){
-    }else if(type == "bio"){
-      if (!requireNamespace("BiocManager", quietly = TRUE)) {
-        install.packages("BiocManager")
-      }
-      BiocManager::install(pkg,ask=FALSE)
-    }
+check_and_install <- function(pkg) {
+  if (!requireNamespace("pak", quietly = TRUE)) { install.packages("pak") }
+  if (!requireNamespace(pkg, quietly = TRUE)) {
+    pak::pkg_install(pkg)   
   }
   library(pkg, character.only = TRUE)
 }
 
-packages <- c("shiny", "tidyverse", "CCA:bio", "ggforce", "plotly","ggrepel")
+packages <- c("shiny", "tidyverse", "CCA", "ggforce", "plotly","ggrepel")
 
-for (pkg_info in packages) { check_and_install(pkg_info) }
+for (pkg in packages) { check_and_install(pkg) }
 
 
 
