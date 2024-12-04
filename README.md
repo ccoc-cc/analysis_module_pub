@@ -2,7 +2,7 @@
 
 1. 下载项目
 
-2. 打开rstudio
+2. 安装包并打开rstudio；如果没有可以看教程 [rstudio.install.md](./00.lib/rstudio.install.md)
 
 3. 左上角 File -> open project, 选择 .Rproj 文件并打开
 
