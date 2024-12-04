@@ -1,0 +1,9 @@
+sample	group	sample1	group1	sample2	group2
+YX-1	Y	YX-1	Y	YX-1	YX
+YX-2	Y	YX-2	Y	YX-2	YX
+YX-3	Y	YX-3	Y	YX-3	YX
+YX-4	Y	YX-4	Y	YX-4	YX
+ZH-1	Z	ZH-1	Z	ZH-1	ZH
+ZH-2	Z	ZH-2	Z	ZH-2	ZH
+ZH-3	Z	ZH-3	Z	ZH-3	ZH
+ZH-4	Z	ZH-4	Z	ZH-4	ZH
