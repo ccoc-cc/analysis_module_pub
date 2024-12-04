@@ -8,7 +8,7 @@ check_and_install <- function(pkg_info) {
   type = ifelse(length(info)>1,info[2],"cran")
   if (!requireNamespace(pkg, quietly = TRUE, ask="no")) {
     if(type == "cran"){
-      install.packages(pkg) #       pak::pkg_install(pkg)
+      pak::pkg_install(pkg) # install.packages(pkg) #       
     }else if(type == "bio"){
       if (!requireNamespace("BiocManager", quietly = TRUE)) {
         install.packages("BiocManager")
