@@ -43,12 +43,12 @@ server <- function(input, output, session) {
     cluster_num <- input$cluster_num
     
     if (input$analysis_type == "mfuzz"){
-      result_cluster <- analysis_mfuzz(df_final,cluster_num,paste0(out_prefix,".Mfuzz"))
+      result_cluster <- analysis_mfuzz(df_final,cluster_num,paste0(out_prefix,".Mfuzz"),input$plotHeight,input$plotWidth,input$plot_ncol)
     }else if (input$analysis_type == "kmeans"){
       result_cluster <- analysis_k(df_final,cluster_num)
     }
     
-    p <- get_result_df(result_cluster$result,result_cluster$dfdf,out_prefix)
+    p <- get_result_df(result_cluster$result,result_cluster$dfdf,out_prefix,input$plotHeight,input$plotWidth,input$plot_ncol)
     
     #------
     output$timePlot <- renderPlotly({

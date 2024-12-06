@@ -10,7 +10,7 @@ check_and_install <- function(pkg) {
   suppressMessages(library(pkg, character.only = TRUE))
 }
 
-packages <- c("shiny", "zip", "tidyverse", "Mfuzz", "plotly", "htmlwidgets")
+packages <- c("shiny", "zip", "tidyverse", "Mfuzz", "plotly", "htmlwidgets", "svglite")
 
 for (pkg_info in packages) { check_and_install(pkg_info) }
 
