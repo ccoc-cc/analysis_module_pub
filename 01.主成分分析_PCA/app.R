@@ -10,7 +10,7 @@ check_and_install <- function(pkg) {
   library(pkg, character.only = TRUE)
 }
 
-packages <- c("shiny", "tidyverse", "dplyr", "ggrepel", "scatterplot3d", "plotly", "htmlwidgets", "RColorBrewer", "logging", "ggrepel")
+packages <- c("shiny", "zip", "tidyverse", "dplyr", "ggrepel", "scatterplot3d", "plotly", "htmlwidgets", "RColorBrewer", "logging", "ggrepel")
 
 for (pkg in packages) { check_and_install(pkg) }
 
@@ -23,4 +23,4 @@ source("0.src/server.R")
 
 shinyApp(ui,server)
 
-
+ 

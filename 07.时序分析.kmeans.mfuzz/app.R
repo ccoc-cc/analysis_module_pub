@@ -7,12 +7,12 @@ check_and_install <- function(pkg) {
   if (!requireNamespace(pkg, quietly = TRUE)) {
     pak::pkg_install(pkg)   
   }
-  library(pkg, character.only = TRUE)
+  suppressMessages(library(pkg, character.only = TRUE))
 }
 
-packages <- c("shiny", "zip", "tidyverse", "CCA", "ggforce", "plotly","ggrepel")
+packages <- c("shiny", "zip", "tidyverse", "Mfuzz", "plotly", "htmlwidgets")
 
-for (pkg in packages) { check_and_install(pkg) }
+for (pkg_info in packages) { check_and_install(pkg_info) }
 
 
 
