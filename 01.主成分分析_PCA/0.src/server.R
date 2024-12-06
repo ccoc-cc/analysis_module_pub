@@ -48,7 +48,7 @@ server <- function(input, output, session) {
     output$pca2DPlot <- renderPlotly({
       g_html # <- ggplotly(plot_pca2d(pca_calculate$pca_df,"sample",colors)) # ggplotly(pca2d_g)
     })
-    save_pca2d(pca_calculate, colors, paste0(outdir,"/",prefix), height, width )
+    save_pca2d(pca_calculate, colors, paste0(outdir,"/",prefix), height, width, input$label )
     saveWidget(as_widget(g_html), file=paste0(outdir,"/",prefix,".html"))
     
     showNotification("开始画3D图")

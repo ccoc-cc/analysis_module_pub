@@ -80,7 +80,7 @@ plot_circ <- function(pca_df){
   return(df_e)
 }
 
-save_pca2d <- function(pca_calculate, colors, prefix, height, width){
+save_pca2d <- function(pca_calculate, colors, prefix, height, width, label="T"){
   pca_df <- pca_calculate$pca_df
   group_repeat <- c()
   for(i in unique(pca_df$group)){group_repeat <- c(group_repeat,nrow(pca_df[pca_df$group==i,]))}
@@ -88,7 +88,7 @@ save_pca2d <- function(pca_calculate, colors, prefix, height, width){
   try(df_e <- plot_circ(pca_df))
   g <-  plot_pca2d(pca_calculate,"",colors) + stat_ellipse(aes(fill=group),geom="polygon",alpha=ifelse(min(group_repeat)>=4,0.2,0),levles=0.95)
   if (nrow(df_e)>=2) { g <- g + geom_path(data = df_e, aes(x=x,y=y,color=group)) }
-  if (nrow(pca_df) < 20){g <- g + geom_label_repel(aes( label = sample),alpha=0.8,force=1,color="black")}
+  if (label == "T"){g <- g + geom_label_repel(aes( label = sample),alpha=0.8,force=1,color="black")}
   # save
   suppressMessages(ggsave(paste0(prefix,".png"),g,height=height,width=width))
   suppressMessages(ggsave(paste0(prefix,".pdf"),g,height=height,width=width))
