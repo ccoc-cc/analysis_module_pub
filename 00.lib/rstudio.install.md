@@ -26,6 +26,8 @@ Rstudio下载：[rstudio-desktop](https://posit.co/download/rstudio-desktop/)
 
 1. 设置镜像
 
+   > 有时候改了镜像反而经常安装失败，你可以再改回去
+
    ![](rstudio.install.images/PixPin_2024-11-12_10-07-03_KCwD7Eqgq1.png)
 2. 安装pak，这个包能够更加方便的安装其他包，比自带的好用，但有时候也会抽风，随便你用哪个安装都行。
 
