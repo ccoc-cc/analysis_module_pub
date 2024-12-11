@@ -1,0 +1,332 @@
+source	target	Class_A_source	Class_B_source	Class_A_target	Class_B_target
+map00010	map00650	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00400	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00770	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Carbohydrate metabolism
+map00010	map00380	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00561	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00564	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00562	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00260	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00052	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00360	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00051	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00520	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00030	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00250	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00500	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00010	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Carbohydrate metabolism
+map00010	map00300	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00350	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00250	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Carbohydrate metabolism
+map00020	map00280	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00071	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00220	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00260	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00300	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00650	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00061	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00310	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00053	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00360	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00330	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00760	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Carbohydrate metabolism
+map00020	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00020	map00062	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00052	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00230	Metabolism	Nucleotide metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00400	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00740	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Carbohydrate metabolism
+map00030	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00030	map00240	Metabolism	Nucleotide metabolism	Metabolism	Carbohydrate metabolism
+map00040	map00053	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00040	map00030	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00040	map00520	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00040	map00562	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00040	map00500	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00040	map00052	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00051	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00051	map00510	Metabolism	Glycan biosynthesis and metabolism	Metabolism	Carbohydrate metabolism
+map00051	map00053	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00051	map00052	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00051	map00520	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00051	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00052	map00520	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00052	map00030	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00052	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00053	map00520	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00053	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00053	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00053	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00053	map00051	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00061	map00780	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Lipid metabolism
+map00061	map00071	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00061	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00061	map00561	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00061	map00410	Metabolism	Metabolism of other amino acids	Metabolism	Lipid metabolism
+map00061	map00062	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00061	map00564	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00061	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00062	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00062	map00071	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00071	map00062	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00071	map00650	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00071	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00071	map00561	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00071	map00061	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00071	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00100	map00900	Metabolism	Metabolism of terpenoids and polyketides	Metabolism	Lipid metabolism
+map00130	map00900	Metabolism	Metabolism of terpenoids and polyketides	Metabolism	Metabolism of cofactors and vitamins
+map00130	map00400	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00220	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00220	map00230	Metabolism	Nucleotide metabolism	Metabolism	Amino acid metabolism
+map00220	map00910	Metabolism	Energy metabolism	Metabolism	Amino acid metabolism
+map00220	map00250	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00220	map00240	Metabolism	Nucleotide metabolism	Metabolism	Amino acid metabolism
+map00220	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00220	map00330	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00230	map00250	Metabolism	Amino acid metabolism	Metabolism	Nucleotide metabolism
+map00230	map00030	Metabolism	Carbohydrate metabolism	Metabolism	Nucleotide metabolism
+map00230	map00860	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Nucleotide metabolism
+map00230	map00740	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Nucleotide metabolism
+map00230	map00260	Metabolism	Amino acid metabolism	Metabolism	Nucleotide metabolism
+map00230	map00790	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Nucleotide metabolism
+map00230	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Nucleotide metabolism
+map00240	map00410	Metabolism	Metabolism of other amino acids	Metabolism	Nucleotide metabolism
+map00240	map00030	Metabolism	Carbohydrate metabolism	Metabolism	Nucleotide metabolism
+map00240	map00280	Metabolism	Amino acid metabolism	Metabolism	Nucleotide metabolism
+map00240	map00220	Metabolism	Amino acid metabolism	Metabolism	Nucleotide metabolism
+map00240	map00250	Metabolism	Amino acid metabolism	Metabolism	Nucleotide metabolism
+map00250	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00250	map00770	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00250	map00410	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00250	map00760	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00250	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00250	map00260	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00250	map00650	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00250	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00250	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00250	map00300	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00250	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00250	map00970	Genetic Information Processing	Translation	Metabolism	Amino acid metabolism
+map00250	map00240	Metabolism	Nucleotide metabolism	Metabolism	Amino acid metabolism
+map00250	map00910	Metabolism	Energy metabolism	Metabolism	Amino acid metabolism
+map00250	map00330	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00250	map00860	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00250	map00230	Metabolism	Nucleotide metabolism	Metabolism	Amino acid metabolism
+map00250	map00480	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00250	map00220	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00260	map00860	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00260	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00260	map00250	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00260	map00564	Metabolism	Lipid metabolism	Metabolism	Amino acid metabolism
+map00260	map00300	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00260	map00920	Metabolism	Energy metabolism	Metabolism	Amino acid metabolism
+map00260	map00270	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00260	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00260	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00260	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00260	map00290	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00260	map00330	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00260	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00260	map00730	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00260	map00600	Metabolism	Lipid metabolism	Metabolism	Amino acid metabolism
+map00260	map00230	Metabolism	Nucleotide metabolism	Metabolism	Amino acid metabolism
+map00261	map00260	Metabolism	Amino acid metabolism	Metabolism	Biosynthesis of other secondary metabolites
+map00261	map00250	Metabolism	Amino acid metabolism	Metabolism	Biosynthesis of other secondary metabolites
+map00261	map00400	Metabolism	Amino acid metabolism	Metabolism	Biosynthesis of other secondary metabolites
+map00261	map00300	Metabolism	Amino acid metabolism	Metabolism	Biosynthesis of other secondary metabolites
+map00270	map00430	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00270	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00270	map00970	Genetic Information Processing	Translation	Metabolism	Amino acid metabolism
+map00270	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00270	map00260	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00270	map00480	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00270	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00270	map00330	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00270	map00730	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00270	map00250	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00270	map00290	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00270	map00920	Metabolism	Energy metabolism	Metabolism	Amino acid metabolism
+map00270	map00900	Metabolism	Metabolism of terpenoids and polyketides	Metabolism	Amino acid metabolism
+map00270	map00770	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00280	map00900	Metabolism	Metabolism of terpenoids and polyketides	Metabolism	Amino acid metabolism
+map00280	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00280	map00240	Metabolism	Nucleotide metabolism	Metabolism	Amino acid metabolism
+map00280	map00290	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00280	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00290	map00970	Genetic Information Processing	Translation	Metabolism	Amino acid metabolism
+map00290	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00290	map00260	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00290	map00280	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00290	map00270	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00300	map00250	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00300	map00310	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00300	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00300	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00300	map00261	Metabolism	Biosynthesis of other secondary metabolites	Metabolism	Amino acid metabolism
+map00300	map00260	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00310	map00780	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00310	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00310	map00300	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00310	map00330	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00330	map00970	Genetic Information Processing	Translation	Metabolism	Amino acid metabolism
+map00330	map00770	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00330	map00250	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00330	map00260	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00330	map00650	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00330	map00410	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00330	map00480	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00330	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00330	map00220	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00330	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00350	map00400	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00350	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00360	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Amino acid metabolism
+map00360	map00350	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00360	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Amino acid metabolism
+map00360	map00400	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00380	map00970	Genetic Information Processing	Translation	Metabolism	Amino acid metabolism
+map00380	map00400	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00380	map00760	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00400	map00970	Genetic Information Processing	Translation	Metabolism	Amino acid metabolism
+map00400	map00350	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00400	map00790	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00400	map00360	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00400	map00380	Metabolism	Amino acid metabolism	Metabolism	Amino acid metabolism
+map00400	map00130	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Amino acid metabolism
+map00410	map00330	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00410	map00061	Metabolism	Lipid metabolism	Metabolism	Metabolism of other amino acids
+map00410	map00250	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00410	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of other amino acids
+map00410	map00240	Metabolism	Nucleotide metabolism	Metabolism	Metabolism of other amino acids
+map00410	map00770	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Metabolism of other amino acids
+map00430	map00480	Metabolism	Metabolism of other amino acids	Metabolism	Metabolism of other amino acids
+map00430	map00270	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00470	map00250	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00470	map00330	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00470	map00260	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00470	map00270	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00470	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of other amino acids
+map00470	map00220	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00480	map00250	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00480	map00430	Metabolism	Metabolism of other amino acids	Metabolism	Metabolism of other amino acids
+map00480	map00330	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00480	map00270	Metabolism	Amino acid metabolism	Metabolism	Metabolism of other amino acids
+map00500	map00520	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00500	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00500	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00510	map00563	Metabolism	Glycan biosynthesis and metabolism	Metabolism	Glycan biosynthesis and metabolism
+map00510	map00900	Metabolism	Metabolism of terpenoids and polyketides	Metabolism	Glycan biosynthesis and metabolism
+map00510	map00051	Metabolism	Carbohydrate metabolism	Metabolism	Glycan biosynthesis and metabolism
+map00520	map00500	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00520	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00520	map00250	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00520	map00052	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00520	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00520	map00053	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00520	map00051	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00561	map00071	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00561	map00061	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00561	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00561	map00564	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00561	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00562	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00562	map00564	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00562	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00563	map00510	Metabolism	Glycan biosynthesis and metabolism	Metabolism	Glycan biosynthesis and metabolism
+map00563	map00564	Metabolism	Lipid metabolism	Metabolism	Glycan biosynthesis and metabolism
+map00564	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Lipid metabolism
+map00564	map00563	Metabolism	Glycan biosynthesis and metabolism	Metabolism	Lipid metabolism
+map00564	map00561	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00564	map00061	Metabolism	Lipid metabolism	Metabolism	Lipid metabolism
+map00600	map00260	Metabolism	Amino acid metabolism	Metabolism	Lipid metabolism
+map00620	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00051	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00300	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00564	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00290	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00270	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00650	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00061	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00430	Metabolism	Metabolism of other amino acids	Metabolism	Carbohydrate metabolism
+map00620	map00760	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Carbohydrate metabolism
+map00620	map00470	Metabolism	Metabolism of other amino acids	Metabolism	Carbohydrate metabolism
+map00620	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00260	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00350	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00620	map00250	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00071	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00260	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00030	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00053	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00250	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00910	Metabolism	Energy metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00330	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00630	map00230	Metabolism	Nucleotide metabolism	Metabolism	Carbohydrate metabolism
+map00640	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00640	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00640	map00410	Metabolism	Metabolism of other amino acids	Metabolism	Carbohydrate metabolism
+map00640	map00270	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00640	map00280	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00640	map00770	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Carbohydrate metabolism
+map00640	map00260	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00020	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00350	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00071	Metabolism	Lipid metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00250	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00650	map00330	Metabolism	Amino acid metabolism	Metabolism	Carbohydrate metabolism
+map00730	map00230	Metabolism	Nucleotide metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00730	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00730	map00400	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00740	map00040	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00740	map00860	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Metabolism of cofactors and vitamins
+map00740	map00230	Metabolism	Nucleotide metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00740	map00900	Metabolism	Metabolism of terpenoids and polyketides	Metabolism	Metabolism of cofactors and vitamins
+map00760	map00250	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00760	map00620	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00770	map00250	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00770	map00240	Metabolism	Nucleotide metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00770	map00640	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00770	map00330	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00770	map00270	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00770	map00410	Metabolism	Metabolism of other amino acids	Metabolism	Metabolism of cofactors and vitamins
+map00780	map00310	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00790	map00230	Metabolism	Nucleotide metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00790	map00400	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00860	map00250	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00860	map00740	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Metabolism of cofactors and vitamins
+map00860	map00260	Metabolism	Amino acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+map00900	map00100	Metabolism	Lipid metabolism	Metabolism	Metabolism of terpenoids and polyketides
+map00900	map00270	Metabolism	Amino acid metabolism	Metabolism	Metabolism of terpenoids and polyketides
+map00900	map00130	Metabolism	Metabolism of cofactors and vitamins	Metabolism	Metabolism of terpenoids and polyketides
+map00900	map00010	Metabolism	Carbohydrate metabolism	Metabolism	Metabolism of terpenoids and polyketides
+map00910	map00630	Metabolism	Carbohydrate metabolism	Metabolism	Energy metabolism
+map00910	map00220	Metabolism	Amino acid metabolism	Metabolism	Energy metabolism
+map00910	map00250	Metabolism	Amino acid metabolism	Metabolism	Energy metabolism
+map00920	map00430	Metabolism	Metabolism of other amino acids	Metabolism	Energy metabolism
+map00920	map00270	Metabolism	Amino acid metabolism	Metabolism	Energy metabolism
+map00920	map00260	Metabolism	Amino acid metabolism	Metabolism	Energy metabolism
+map00970	map00270	Metabolism	Amino acid metabolism	Genetic Information Processing	Translation
+map00970	map00330	Metabolism	Amino acid metabolism	Genetic Information Processing	Translation
+map00970	map00300	Metabolism	Amino acid metabolism	Genetic Information Processing	Translation
+map00970	map00400	Metabolism	Amino acid metabolism	Genetic Information Processing	Translation
+map00970	map00260	Metabolism	Amino acid metabolism	Genetic Information Processing	Translation
+map00970	map00250	Metabolism	Amino acid metabolism	Genetic Information Processing	Translation

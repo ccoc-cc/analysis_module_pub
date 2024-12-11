@@ -1,0 +1,401 @@
+source	target	class
+map00010	FBgn0043783	Metabolism
+map00020	FBgn0001248	Metabolism
+map00030	FBgn0030362	Metabolism
+map00040	FBgn0024289	Metabolism
+map00051	FBgn0024289	Metabolism
+map00052	FBgn0043783	Metabolism
+map00053	FBgn0030362	Metabolism
+map00061	FBgn0283427	Metabolism
+map00062	FBgn0040064	Metabolism
+map00071	FBgn0036824	Metabolism
+map00100	FBgn0032266	Metabolism
+map00120	FBgn0038665	Metabolism
+map00130	FBgn0033733	Metabolism
+map00140	FBgn0032684	Metabolism
+map00190	FBgn0085201	Metabolism
+map00220	FBgn0001125	Metabolism
+map00230	FBgn0022709	Metabolism
+map00232	FBgn0267408	Metabolism
+map00240	FBgn0031489	Metabolism
+map00250	FBgn0001125	Metabolism
+map00260	FBgn0032350	Metabolism
+map00261	FBgn0020389	Metabolism
+map00270	FBgn0032350	Metabolism
+map00280	FBgn0036824	Metabolism
+map00290	FBgn0030482	Metabolism
+map00300	FBgn0036117	Metabolism
+map00310	FBgn0029969	Metabolism
+map00330	FBgn0013307	Metabolism
+map00350	FBgn0033367	Metabolism
+map00360	FBgn0001125	Metabolism
+map00380	FBgn0029969	Metabolism
+map00400	FBgn0001125	Metabolism
+map00410	FBgn0031813	Metabolism
+map00430	FBgn0004516	Metabolism
+map00450	FBgn0000566	Metabolism
+map00470	FBgn0261625	Metabolism
+map00480	FBgn0001248	Metabolism
+map00500	FBgn0000078	Metabolism
+map00510	FBgn0053303	Metabolism
+map00511	FBgn0260746	Metabolism
+map00512	FBgn0051956	Metabolism
+map00513	FBgn0053303	Metabolism
+map00514	FBgn0051956	Metabolism
+map00515	FBgn0027538	Metabolism
+map00520	FBgn0052220	Metabolism
+map00531	FBgn0260746	Metabolism
+map00532	FBgn0003089	Metabolism
+map00533	FBgn0027538	Metabolism
+map00534	FBgn0265974	Metabolism
+map00543	FBgn0025835	Metabolism
+map00561	FBgn0039471	Metabolism
+map00562	FBgn0036262	Metabolism
+map00563	FBgn0023545	Metabolism
+map00564	FBgn0259734	Metabolism
+map00565	FBgn0016078	Metabolism
+map00590	FBgn0000056	Metabolism
+map00591	FBgn0031735	Metabolism
+map00592	FBgn0031813	Metabolism
+map00600	FBgn0260746	Metabolism
+map00601	FBgn0027538	Metabolism
+map00604	FBgn0260746	Metabolism
+map00620	FBgn0034356	Metabolism
+map00630	FBgn0029969	Metabolism
+map00640	FBgn0031813	Metabolism
+map00650	FBgn0040349	Metabolism
+map00670	FBgn0085453	Metabolism
+map00730	FBgn0022709	Metabolism
+map00740	FBgn0014930	Metabolism
+map00760	FBgn0259101	Metabolism
+map00770	FBgn0004516	Metabolism
+map00780	FBgn0040069	Metabolism
+map00785	FBgn0037801	Metabolism
+map00790	FBgn0003162	Metabolism
+map00830	FBgn0032684	Metabolism
+map00860	FBgn0015221	Metabolism
+map00900	FBgn0069973	Metabolism
+map00910	FBgn0039486	Metabolism
+map00920	FBgn0038115	Metabolism
+map00970	FBgn0027082	Genetic Information Processing
+map00980	FBgn0032684	Metabolism
+map00981	FBgn0069973	Metabolism
+map00982	FBgn0032684	Metabolism
+map00983	FBgn0032684	Metabolism
+map01040	FBgn0051809	Metabolism
+map01040	FBgn0031813	Metabolism
+map01200	FBgn0001248	Metabolism
+map01210	FBgn0001248	Metabolism
+map01212	FBgn0036824	Metabolism
+map01230	FBgn0001248	Metabolism
+map01232	FBgn0031489	Metabolism
+map01240	FBgn0030362	Metabolism
+map01250	FBgn0036262	Metabolism
+map01521	FBgn0003091	Human Diseases
+map01522	FBgn0022710	Human Diseases
+map01523	FBgn0003996	Human Diseases
+map01524	FBgn0010039	Human Diseases
+map02010	FBgn0003996	Environmental Information Processing
+map03008	FBgn0028473	Genetic Information Processing
+map03010	FBgn0015288	Genetic Information Processing
+map03013	FBgn0284245	Genetic Information Processing
+map03015	FBgn0000711	Genetic Information Processing
+map03018	FBgn0035388	Genetic Information Processing
+map03020	FBgn0263757	Genetic Information Processing
+map03022	FBgn0011836	Genetic Information Processing
+map03030	FBgn0034726	Genetic Information Processing
+map03040	FBgn0013276	Genetic Information Processing
+map03050	FBgn0050382	Genetic Information Processing
+map03060	FBgn0086605	Genetic Information Processing
+map03082	FBgn0032321	Genetic Information Processing
+map03083	FBgn0265623	Genetic Information Processing
+map03250	FBgn0259108	Genetic Information Processing
+map03265	FBgn0024320	Genetic Information Processing
+map03272	FBgn0035090	Genetic Information Processing
+map03320	FBgn0037913	Organismal Systems
+map03410	FBgn0034726	Genetic Information Processing
+map03420	FBgn0263757	Genetic Information Processing
+map03430	FBgn0288833	Genetic Information Processing
+map03440	FBgn0020270	Genetic Information Processing
+map03450	FBgn0020270	Genetic Information Processing
+map03460	FBgn0026015	Genetic Information Processing
+map04010	FBgn0013276	Environmental Information Processing
+map04012	FBgn0003091	Environmental Information Processing
+map04013	FBgn0014380	Environmental Information Processing
+map04014	FBgn0044048	Environmental Information Processing
+map04015	novel499	Environmental Information Processing
+map04020	FBgn0004435	Environmental Information Processing
+map04022	FBgn0004435	Environmental Information Processing
+map04024	FBgn0283471	Environmental Information Processing
+map04060	FBgn0031055	Environmental Information Processing
+map04061	FBgn0031055	Environmental Information Processing
+map04062	FBgn0004435	Organismal Systems
+map04064	FBgn0003091	Environmental Information Processing
+map04066	FBgn0000579	Environmental Information Processing
+map04068	FBgn0034356	Environmental Information Processing
+map04070	FBgn0003091	Environmental Information Processing
+map04071	FBgn0029093	Environmental Information Processing
+map04072	FBgn0044048	Environmental Information Processing
+map04080	FBgn0250815	Environmental Information Processing
+map04110	FBgn0262508	Cellular Processes
+map04114	FBgn0044048	Cellular Processes
+map04115	FBgn0022768	Cellular Processes
+map04120	FBgn0035207	Genetic Information Processing
+map04122	FBgn0032054	Genetic Information Processing
+map04130	FBgn0267849	Genetic Information Processing
+map04136	FBgn0036255	Cellular Processes
+map04137	FBgn0038862	Cellular Processes
+map04140	FBgn0029093	Cellular Processes
+map04141	FBgn0013276	Genetic Information Processing
+map04142	FBgn0029093	Cellular Processes
+map04144	FBgn0013276	Cellular Processes
+map04145	novel499	Cellular Processes
+map04146	FBgn0001248	Cellular Processes
+map04148	FBgn0013307	Cellular Processes
+map04150	FBgn0035227	Environmental Information Processing
+map04151	FBgn0034356	Environmental Information Processing
+map04152	FBgn0034356	Environmental Information Processing
+map04210	FBgn0029093	Cellular Processes
+map04211	FBgn0044048	Organismal Systems
+map04212	FBgn0010039	Organismal Systems
+map04213	FBgn0013276	Organismal Systems
+map04214	FBgn0000546	Cellular Processes
+map04215	FBgn0040491	Cellular Processes
+map04216	FBgn0015221	Cellular Processes
+map04217	FBgn0015221	Cellular Processes
+map04218	FBgn0000711	Cellular Processes
+map04260	FBgn0085201	Organismal Systems
+map04261	FBgn0004435	Organismal Systems
+map04270	FBgn0004435	Organismal Systems
+map04310	FBgn0003091	Environmental Information Processing
+map04320	FBgn0000256	Organismal Systems
+map04330	FBgn0053198	Environmental Information Processing
+map04340	FBgn0029006	Environmental Information Processing
+map04341	FBgn0029006	Environmental Information Processing
+map04350	FBgn0265523	Environmental Information Processing
+map04360	FBgn0260463	Organismal Systems
+map04361	FBgn0004435	Organismal Systems
+map04370	FBgn0003091	Environmental Information Processing
+map04371	FBgn0004435	Environmental Information Processing
+map04380	FBgn0034229	Organismal Systems
+map04390	FBgn0000711	Environmental Information Processing
+map04391	FBgn0000163	Environmental Information Processing
+map04392	FBgn0003345	Environmental Information Processing
+map04510	FBgn0039332	Cellular Processes
+map04512	FBgn0039332	Environmental Information Processing
+map04514	novel499	Environmental Information Processing
+map04520	FBgn0000163	Cellular Processes
+map04530	FBgn0002772	Cellular Processes
+map04540	FBgn0004435	Cellular Processes
+map04550	FBgn0025800	Cellular Processes
+map04610	novel499	Organismal Systems
+map04611	FBgn0004435	Organismal Systems
+map04612	FBgn0013276	Organismal Systems
+map04613	novel499	Organismal Systems
+map04614	FBgn0051198	Organismal Systems
+map04620	FBgn0034229	Organismal Systems
+map04621	FBgn0034709	Organismal Systems
+map04622	FBgn0033453	Organismal Systems
+map04623	FBgn0033453	Organismal Systems
+map04624	FBgn0025583	Organismal Systems
+map04625	FBgn0031692	Organismal Systems
+map04630	FBgn0262656	Environmental Information Processing
+map04640	novel499	Organismal Systems
+map04650	FBgn0003091	Organismal Systems
+map04657	FBgn0001233	Organismal Systems
+map04658	FBgn0267912	Organismal Systems
+map04659	FBgn0001233	Organismal Systems
+map04660	FBgn0267912	Organismal Systems
+map04662	FBgn0003091	Organismal Systems
+map04664	FBgn0003091	Organismal Systems
+map04666	FBgn0003091	Organismal Systems
+map04668	FBgn0261524	Environmental Information Processing
+map04670	novel499	Organismal Systems
+map04710	FBgn0023076	Organismal Systems
+map04711	FBgn0023076	Organismal Systems
+map04713	FBgn0004435	Organismal Systems
+map04714	FBgn0085201	Organismal Systems
+map04720	FBgn0004435	Organismal Systems
+map04721	FBgn0263111	Organismal Systems
+map04722	FBgn0264607	Organismal Systems
+map04723	FBgn0058002	Organismal Systems
+map04724	FBgn0004435	Organismal Systems
+map04725	FBgn0004435	Organismal Systems
+map04726	FBgn0004435	Organismal Systems
+map04727	FBgn0003091	Organismal Systems
+map04728	FBgn0023076	Organismal Systems
+map04730	FBgn0004435	Organismal Systems
+map04740	FBgn0264607	Organismal Systems
+map04742	FBgn0285944	Organismal Systems
+map04744	FBgn0031692	Organismal Systems
+map04745	FBgn0004435	Organismal Systems
+map04750	FBgn0004435	Organismal Systems
+map04810	novel499	Cellular Processes
+map04814	FBgn0283471	Cellular Processes
+map04820	FBgn0259209	Cellular Processes
+map04910	FBgn0034356	Organismal Systems
+map04911	FBgn0004435	Organismal Systems
+map04912	FBgn0004435	Organismal Systems
+map04913	FBgn0002939	Organismal Systems
+map04914	FBgn0044048	Organismal Systems
+map04915	FBgn0013276	Organismal Systems
+map04916	FBgn0033367	Organismal Systems
+map04917	FBgn0044048	Organismal Systems
+map04918	FBgn0004435	Organismal Systems
+map04919	FBgn0003091	Organismal Systems
+map04920	FBgn0034356	Organismal Systems
+map04921	FBgn0004435	Organismal Systems
+map04922	FBgn0004435	Organismal Systems
+map04923	FBgn0044048	Organismal Systems
+map04924	FBgn0004435	Organismal Systems
+map04925	FBgn0004435	Organismal Systems
+map04926	FBgn0003091	Organismal Systems
+map04927	FBgn0004435	Organismal Systems
+map04928	FBgn0004435	Organismal Systems
+map04929	FBgn0004435	Organismal Systems
+map04930	FBgn0044048	Human Diseases
+map04931	FBgn0034356	Human Diseases
+map04932	FBgn0085201	Human Diseases
+map04933	FBgn0003091	Human Diseases
+map04934	FBgn0038862	Human Diseases
+map04935	FBgn0004435	Organismal Systems
+map04936	FBgn0031813	Human Diseases
+map04940	FBgn0044048	Human Diseases
+map04950	FBgn0044048	Human Diseases
+map04960	FBgn0044048	Organismal Systems
+map04961	FBgn0004435	Organismal Systems
+map04962	FBgn0022710	Organismal Systems
+map04964	FBgn0034356	Organismal Systems
+map04966	FBgn0028670	Organismal Systems
+map04970	FBgn0004427	Organismal Systems
+map04971	FBgn0004435	Organismal Systems
+map04972	FBgn0250815	Organismal Systems
+map04973	FBgn0000078	Organismal Systems
+map04974	FBgn0250815	Organismal Systems
+map04975	FBgn0039471	Organismal Systems
+map04976	FBgn0032684	Organismal Systems
+map04977	FBgn0039471	Organismal Systems
+map04978	FBgn0015221	Organismal Systems
+map04979	FBgn0032136	Organismal Systems
+map04980	FBgn0266450	Organismal Systems
+map05010	FBgn0085201	Human Diseases
+map05012	FBgn0085201	Human Diseases
+map05014	FBgn0085201	Human Diseases
+map05016	FBgn0085201	Human Diseases
+map05017	FBgn0004435	Human Diseases
+map05020	FBgn0013276	Human Diseases
+map05022	FBgn0085201	Human Diseases
+map05030	FBgn0011582	Human Diseases
+map05031	FBgn0003091	Human Diseases
+map05032	FBgn0003091	Human Diseases
+map05033	FBgn0263111	Human Diseases
+map05034	FBgn0000711	Human Diseases
+map05100	FBgn0284255	Human Diseases
+map05110	FBgn0051030	Human Diseases
+map05120	FBgn0051030	Human Diseases
+map05130	FBgn0284255	Human Diseases
+map05131	FBgn0004611	Human Diseases
+map05132	FBgn0284255	Human Diseases
+map05133	novel499	Human Diseases
+map05134	FBgn0013276	Human Diseases
+map05135	FBgn0004435	Human Diseases
+map05140	FBgn0284245	Human Diseases
+map05142	FBgn0004435	Human Diseases
+map05143	FBgn0004435	Human Diseases
+map05144	FBgn0031850	Human Diseases
+map05145	FBgn0013276	Human Diseases
+map05146	novel499	Human Diseases
+map05150	novel499	Human Diseases
+map05152	FBgn0029093	Human Diseases
+map05160	FBgn0002939	Human Diseases
+map05161	FBgn0051030	Human Diseases
+map05162	FBgn0013276	Human Diseases
+map05163	FBgn0004435	Human Diseases
+map05164	FBgn0250815	Human Diseases
+map05165	FBgn0051030	Human Diseases
+map05166	FBgn0011837	Human Diseases
+map05167	FBgn0031692	Human Diseases
+map05168	FBgn0000711	Human Diseases
+map05169	FBgn0040102	Human Diseases
+map05170	FBgn0004435	Human Diseases
+map05171	FBgn0015288	Human Diseases
+map05200	FBgn0004435	Human Diseases
+map05202	novel499	Human Diseases
+map05203	FBgn0011230	Human Diseases
+map05204	FBgn0032684	Human Diseases
+map05205	FBgn0013770	Human Diseases
+map05206	FBgn0003091	Human Diseases
+map05207	FBgn0032684	Human Diseases
+map05208	FBgn0085201	Human Diseases
+map05210	FBgn0014380	Human Diseases
+map05211	FBgn0014380	Human Diseases
+map05212	FBgn0014380	Human Diseases
+map05213	FBgn0262656	Human Diseases
+map05214	FBgn0003091	Human Diseases
+map05215	FBgn0044048	Human Diseases
+map05216	FBgn0262656	Human Diseases
+map05217	FBgn0000490	Human Diseases
+map05218	FBgn0014073	Human Diseases
+map05219	FBgn0262656	Human Diseases
+map05220	FBgn0025800	Human Diseases
+map05221	novel499	Human Diseases
+map05222	FBgn0036364	Human Diseases
+map05223	FBgn0003091	Human Diseases
+map05224	FBgn0014073	Human Diseases
+map05225	FBgn0010039	Human Diseases
+map05226	FBgn0025800	Human Diseases
+map05230	FBgn0001248	Human Diseases
+map05231	FBgn0003091	Human Diseases
+map05235	FBgn0261524	Human Diseases
+map05321	FBgn0025800	Human Diseases
+map05322	FBgn0053513	Human Diseases
+map05323	FBgn0051030	Human Diseases
+map05340	FBgn0037661	Human Diseases
+map05410	FBgn0283471	Human Diseases
+map05412	FBgn0001250	Human Diseases
+map05414	FBgn0283471	Human Diseases
+map05415	FBgn0029093	Human Diseases
+map05416	FBgn0014380	Human Diseases
+map05417	FBgn0013276	Human Diseases
+map05418	FBgn0013770	Human Diseases
+map05418	FBgn0010039	Human Diseases
+map05418	FBgn0063498	Human Diseases
+map05418	FBgn0063491	Human Diseases
+map05418	FBgn0001149	Human Diseases
+map05418	FBgn0033875	Human Diseases
+map05418	FBgn0031692	Human Diseases
+map05418	FBgn0037396	Human Diseases
+map05418	FBgn0063497	Human Diseases
+map05418	FBgn0014380	Human Diseases
+map05418	FBgn0001233	Human Diseases
+map05418	FBgn0063495	Human Diseases
+map05418	FBgn0034335	Human Diseases
+map05418	FBgn0033817	Human Diseases
+map05418	FBgn0034354	Human Diseases
+map05418	FBgn0000045	Human Diseases
+map05418	FBgn0063496	Human Diseases
+map05418	FBgn0063492	Human Diseases
+map05418	FBgn0000043	Human Diseases
+map05418	FBgn0010041	Human Diseases
+map05418	FBgn0020440	Human Diseases
+map05418	FBgn0000490	Human Diseases
+map05418	FBgn0024222	Human Diseases
+map05418	FBgn0010424	Human Diseases
+map05418	FBgn0039015	Human Diseases
+map05418	FBgn0001291	Human Diseases
+map05418	FBgn0042206	Human Diseases
+map05418	FBgn0086348	Human Diseases
+map05418	FBgn0267339	Human Diseases
+map05418	FBgn0034443	Human Diseases
+map05415	FBgn0013672	Human Diseases
+map05415	FBgn0040705	Human Diseases
+map05415	FBgn0051477	Human Diseases
+map05415	FBgn0267339	Human Diseases
+map05415	FBgn0037714	Human Diseases
+map05221	novel129	Human Diseases
+map05221	novel319	Human Diseases
+map05221	FBgn0010317	Human Diseases
+map05221	novel598	Human Diseases
+map05221	FBgn0000404	Human Diseases
+map05221	novel427	Human Diseases
+map05221	novel758	Human Diseases
