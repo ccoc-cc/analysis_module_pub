@@ -14,3 +14,13 @@
 
 [WGCNA-shinyApp](https://github.com/ShawnWx2019/WGCNA-shinyApp/tree/ca1ad4e299271436280cb409725a7224e0b03ddd)
 
+# 使用方法
+
+1. 下载项目
+
+2. 打开 `WGCNA-shinyApp.Rproj`
+
+3. 在Rstudio里面打开 `WGCNAbyClick.v1.R`
+
+4. 点击 `run app`
+
