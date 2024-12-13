@@ -1,0 +1,663 @@
+source	target	class
+map00010	Zm00001eb006760	Metabolism
+map00020	Zm00001eb002960	Metabolism
+map00030	Zm00001eb005330	Metabolism
+map00040	Zm00001eb005330	Metabolism
+map00051	Zm00001eb001000	Metabolism
+map00052	Zm00001eb016850	Metabolism
+map00053	Zm00001eb025800	Metabolism
+map00061	Zm00001eb023380	Metabolism
+map00062	Zm00001eb000230	Metabolism
+map00071	Zm00001eb005300	Metabolism
+map00073	Zm00001eb005300	Metabolism
+map00100	Zm00001eb019480	Metabolism
+map00120	ID_0424	Metabolism
+map00121	ID_0424	Metabolism
+map00130	Zm00001eb004210	Metabolism
+map00140	Zm00001eb040180	Metabolism
+map00190	Zm00001eb000210	Metabolism
+map00195	Zm00001eb001650	Metabolism
+map00196	Zm00001eb041460	Metabolism
+map00220	Zm00001eb019970	Metabolism
+map00230	Zm00001eb002420	Metabolism
+map00232	Zm00001eb021020	Metabolism
+map00240	Zm00001eb018380	Metabolism
+map00250	Zm00001eb005550	Metabolism
+map00253	ID_0214	Metabolism
+map00254	Zm00001eb086560	Metabolism
+map00260	Zm00001eb005550	Metabolism
+map00261	Zm00001eb064530	Metabolism
+map00270	Zm00001eb002740	Metabolism
+map00280	Zm00001eb005550	Metabolism
+map00290	Zm00001eb009540	Metabolism
+map00300	Zm00001eb013940	Metabolism
+map00310	Zm00001eb014730	Metabolism
+map00330	Zm00001eb044630	Metabolism
+map00331	ID_0356	Metabolism
+map00333	Zm00001eb086000	Metabolism
+map00340	Zm00001eb020250	Metabolism
+map00350	Zm00001eb006760	Metabolism
+map00360	Zm00001eb014890	Metabolism
+map00361	Zm00001eb348780	Metabolism
+map00362	Zm00001eb014890	Metabolism
+map00363	ID_0739	Metabolism
+map00364	Zm00001eb348780	Metabolism
+map00380	Zm00001eb002510	Metabolism
+map00400	Zm00001eb011020	Metabolism
+map00401	Zm00001eb113920	Metabolism
+map00402	Zm00001eb033030	Metabolism
+map00403	ID_0187	Metabolism
+map00405	Zm00001eb011670	Metabolism
+map00410	Zm00001eb014890	Metabolism
+map00430	Zm00001eb037690	Metabolism
+map00440	Zm00001eb172180	Metabolism
+map00450	Zm00001eb007130	Metabolism
+map00460	Zm00001eb008530	Metabolism
+map00470	Zm00001eb028810	Metabolism
+map00480	Zm00001eb002810	Metabolism
+map00500	Zm00001eb000080	Metabolism
+map00510	Zm00001eb013250	Metabolism
+map00511	Zm00001eb008880	Metabolism
+map00513	Zm00001eb008880	Metabolism
+map00514	Zm00001eb039370	Metabolism
+map00515	Zm00001eb334770	Metabolism
+map00520	Zm00001eb001000	Metabolism
+map00521	Zm00001eb008360	Metabolism
+map00524	Zm00001eb141560	Metabolism
+map00531	Zm00001eb008880	Metabolism
+map00540	Zm00001eb153480	Metabolism
+map00541	Zm00001eb016850	Metabolism
+map00543	Zm00001eb002740	Metabolism
+map00552	ID_0171	Metabolism
+map00561	Zm00001eb008640	Metabolism
+map00562	Zm00001eb006080	Metabolism
+map00563	Zm00001eb018410	Metabolism
+map00564	Zm00001eb001370	Metabolism
+map00565	Zm00001eb001370	Metabolism
+map00590	Zm00001eb062080	Metabolism
+map00591	Zm00001eb005920	Metabolism
+map00592	Zm00001eb005920	Metabolism
+map00600	Zm00001eb008880	Metabolism
+map00603	Zm00001eb008880	Metabolism
+map00604	Zm00001eb008880	Metabolism
+map00620	Zm00001eb006760	Metabolism
+map00621	ID_0137	Metabolism
+map00622	ID_0137	Metabolism
+map00623	Zm00001eb348780	Metabolism
+map00625	Zm00001eb006760	Metabolism
+map00626	Zm00001eb006760	Metabolism
+map00627	Zm00001eb014890	Metabolism
+map00630	Zm00001eb002510	Metabolism
+map00640	Zm00001eb014890	Metabolism
+map00642	ID_0082	Metabolism
+map00643	Zm00001eb109510	Metabolism
+map00650	Zm00001eb014890	Metabolism
+map00660	Zm00001eb112480	Metabolism
+map00670	Zm00001eb056550	Metabolism
+map00680	Zm00001eb006760	Metabolism
+map00710	Zm00001eb002270	Metabolism
+map00720	Zm00001eb002960	Metabolism
+map00730	Zm00001eb002420	Metabolism
+map00740	Zm00001eb001180	Metabolism
+map00750	Zm00001eb027880	Metabolism
+map00760	Zm00001eb039560	Metabolism
+map00770	Zm00001eb009540	Metabolism
+map00780	Zm00001eb037230	Metabolism
+map00785	Zm00001eb030760	Metabolism
+map00790	Zm00001eb039830	Metabolism
+map00791	Zm00001eb019970	Metabolism
+map00830	Zm00001eb006760	Metabolism
+map00860	Zm00001eb003350	Metabolism
+map00900	Zm00001eb006380	Metabolism
+map00901	ID_0057	Metabolism
+map00902	Zm00001eb111690	Metabolism
+map00903	Zm00001eb201330	Metabolism
+map00904	Zm00001eb015820	Metabolism
+map00905	Zm00001eb093140	Metabolism
+map00906	Zm00001eb073250	Metabolism
+map00907	Zm00001eb014890	Metabolism
+map00908	Zm00001eb045490	Metabolism
+map00909	Zm00001eb006380	Metabolism
+map00910	Zm00001eb046120	Metabolism
+map00920	Zm00001eb002740	Metabolism
+map00930	Zm00001eb014890	Metabolism
+map00940	Zm00001eb001420	Metabolism
+map00941	Zm00001eb001420	Metabolism
+map00942	Zm00001eb374230	Metabolism
+map00943	Zm00001eb419010	Metabolism
+map00944	Zm00001eb183650	Metabolism
+map00945	Zm00001eb001420	Metabolism
+map00946	Zm00001eb054230	Metabolism
+map00950	Zm00001eb079760	Metabolism
+map00960	Zm00001eb012060	Metabolism
+map00965	ID_0537	Metabolism
+map00966	Zm00001eb009540	Metabolism
+map00970	Zm00001eb003350	Genetic Information Processing
+map00980	Zm00001eb002810	Metabolism
+map00981	Zm00001eb201330	Metabolism
+map00982	Zm00001eb002810	Metabolism
+map00983	Zm00001eb002810	Metabolism
+map00996	ID_0344	Metabolism
+map00997	ID_0137	Metabolism
+map00998	ID_0137	Metabolism
+map00999	Zm00001eb008530	Metabolism
+map01040	Zm00001eb016980	Metabolism
+map01051	Zm00001eb378030	Metabolism
+map01053	Zm00001eb310840	Metabolism
+map01057	ID_0214	Metabolism
+map01060	ID_0017	Metabolism
+map01061	ID_0006	Metabolism
+map01062	ID_0017	Metabolism
+map01063	ID_0017	Metabolism
+map01064	ID_0017	Metabolism
+map01065	ID_0017	Metabolism
+map01066	ID_0017	Metabolism
+map01070	ID_0017	Metabolism
+map01070	ID_0117	Metabolism
+map01070	ID_0137	Metabolism
+map01070	ID_0263	Metabolism
+map01200	Zm00001eb002270	Metabolism
+map01210	Zm00001eb002960	Metabolism
+map01212	Zm00001eb000230	Metabolism
+map01220	Zm00001eb006760	Metabolism
+map01230	Zm00001eb002740	Metabolism
+map01232	Zm00001eb002420	Metabolism
+map01240	Zm00001eb001180	Metabolism
+map01250	Zm00001eb001000	Metabolism
+map01502	ID_0137	Human Diseases
+map01503	Zm00001eb361670	Human Diseases
+map01521	Zm00001eb015960	Human Diseases
+map01522	Zm00001eb015960	Human Diseases
+map01523	Zm00001eb056550	Human Diseases
+map01524	Zm00001eb002810	Human Diseases
+map02010	Zm00001eb012760	Environmental Information Processing
+map02020	Zm00001eb014020	Environmental Information Processing
+map02024	Zm00001eb001070	Cellular Processes
+map02025	Zm00001eb011670	Cellular Processes
+map02026	Zm00001eb017580	Cellular Processes
+map02030	ID_0354	Cellular Processes
+map02040	Zm00001eb172090	Cellular Processes
+map02060	ID_0079	Environmental Information Processing
+map03008	Zm00001eb000310	Genetic Information Processing
+map03010	Zm00001eb001840	Genetic Information Processing
+map03013	Zm00001eb000780	Genetic Information Processing
+map03015	Zm00001eb004400	Genetic Information Processing
+map03018	Zm00001eb000340	Genetic Information Processing
+map03020	Zm00001eb016000	Genetic Information Processing
+map03022	Zm00001eb004890	Genetic Information Processing
+map03030	Zm00001eb002170	Genetic Information Processing
+map03040	Zm00001eb000780	Genetic Information Processing
+map03050	Zm00001eb004030	Genetic Information Processing
+map03060	Zm00001eb000480	Genetic Information Processing
+map03070	Zm00001eb001070	Environmental Information Processing
+map03082	Zm00001eb000800	Genetic Information Processing
+map03083	Zm00001eb000020	Genetic Information Processing
+map03250	Zm00001eb001290	Genetic Information Processing
+map03266	Zm00001eb324850	Genetic Information Processing
+map03320	Zm00001eb016980	Organismal Systems
+map03410	Zm00001eb002170	Genetic Information Processing
+map03420	Zm00001eb002170	Genetic Information Processing
+map03430	Zm00001eb002170	Genetic Information Processing
+map03440	Zm00001eb002170	Genetic Information Processing
+map03450	Zm00001eb069270	Genetic Information Processing
+map03460	Zm00001eb005010	Genetic Information Processing
+map04010	Zm00001eb012510	Environmental Information Processing
+map04011	Zm00001eb002510	Environmental Information Processing
+map04012	Zm00001eb015960	Environmental Information Processing
+map04013	Zm00001eb005220	Environmental Information Processing
+map04014	Zm00001eb001370	Environmental Information Processing
+map04015	Zm00001eb015200	Environmental Information Processing
+map04016	Zm00001eb002510	Environmental Information Processing
+map04020	Zm00001eb002060	Environmental Information Processing
+map04022	Zm00001eb002060	Environmental Information Processing
+map04024	Zm00001eb001370	Environmental Information Processing
+map04062	Zm00001eb108620	Organismal Systems
+map04064	Zm00001eb001680	Environmental Information Processing
+map04066	Zm00001eb013550	Environmental Information Processing
+map04068	Zm00001eb002510	Environmental Information Processing
+map04070	Zm00001eb011460	Environmental Information Processing
+map04071	Zm00001eb001370	Environmental Information Processing
+map04072	Zm00001eb001370	Environmental Information Processing
+map04075	Zm00001eb005980	Environmental Information Processing
+map04080	Zm00001eb354150	Environmental Information Processing
+map04110	Zm00001eb000020	Cellular Processes
+map04111	Zm00001eb000020	Cellular Processes
+map04112	Zm00001eb014750	Cellular Processes
+map04113	Zm00001eb005220	Cellular Processes
+map04114	Zm00001eb000020	Cellular Processes
+map04115	Zm00001eb003700	Cellular Processes
+map04120	Zm00001eb000020	Genetic Information Processing
+map04122	Zm00001eb031400	Genetic Information Processing
+map04130	Zm00001eb005080	Genetic Information Processing
+map04136	Zm00001eb001590	Cellular Processes
+map04137	Zm00001eb009900	Cellular Processes
+map04138	Zm00001eb001590	Cellular Processes
+map04139	Zm00001eb001590	Cellular Processes
+map04140	Zm00001eb001590	Cellular Processes
+map04141	Zm00001eb000020	Genetic Information Processing
+map04142	Zm00001eb000230	Cellular Processes
+map04144	Zm00001eb001370	Cellular Processes
+map04145	Zm00001eb000490	Cellular Processes
+map04146	Zm00001eb002510	Cellular Processes
+map04150	Zm00001eb001590	Environmental Information Processing
+map04151	Zm00001eb005220	Environmental Information Processing
+map04152	Zm00001eb005220	Environmental Information Processing
+map04210	Zm00001eb078300	Cellular Processes
+map04211	Zm00001eb002510	Organismal Systems
+map04212	Zm00001eb000980	Organismal Systems
+map04213	Zm00001eb000310	Organismal Systems
+map04214	Zm00001eb000700	Cellular Processes
+map04215	Zm00001eb142950	Cellular Processes
+map04216	Zm00001eb003070	Cellular Processes
+map04217	Zm00001eb002060	Cellular Processes
+map04218	Zm00001eb002060	Cellular Processes
+map04260	Zm00001eb021120	Organismal Systems
+map04261	Zm00001eb005220	Organismal Systems
+map04270	Zm00001eb011980	Organismal Systems
+map04310	Zm00001eb000020	Environmental Information Processing
+map04320	Zm00001eb029610	Organismal Systems
+map04330	Zm00001eb030540	Environmental Information Processing
+map04340	Zm00001eb028340	Environmental Information Processing
+map04341	Zm00001eb000020	Environmental Information Processing
+map04350	Zm00001eb000020	Environmental Information Processing
+map04360	Zm00001eb010370	Organismal Systems
+map04361	Zm00001eb013270	Organismal Systems
+map04370	Zm00001eb023890	Environmental Information Processing
+map04371	Zm00001eb013270	Environmental Information Processing
+map04380	Zm00001eb010140	Organismal Systems
+map04390	Zm00001eb005220	Environmental Information Processing
+map04391	Zm00001eb005220	Environmental Information Processing
+map04392	Zm00001eb019680	Environmental Information Processing
+map04510	Zm00001eb011460	Cellular Processes
+map04520	Zm00001eb023910	Cellular Processes
+map04530	Zm00001eb005220	Cellular Processes
+map04540	Zm00001eb000490	Cellular Processes
+map04550	Zm00001eb073870	Cellular Processes
+map04611	Zm00001eb011980	Organismal Systems
+map04612	Zm00001eb012510	Organismal Systems
+map04613	Zm00001eb002060	Organismal Systems
+map04614	Zm00001eb038510	Organismal Systems
+map04620	Zm00001eb017800	Organismal Systems
+map04621	Zm00001eb003070	Organismal Systems
+map04622	Zm00001eb067280	Organismal Systems
+map04623	Zm00001eb049200	Organismal Systems
+map04624	Zm00001eb017800	Organismal Systems
+map04625	Zm00001eb015200	Organismal Systems
+map04626	Zm00001eb002180	Organismal Systems
+map04630	Zm00001eb030540	Environmental Information Processing
+map04650	Zm00001eb023890	Organismal Systems
+map04657	Zm00001eb034130	Organismal Systems
+map04658	Zm00001eb023890	Organismal Systems
+map04659	Zm00001eb023890	Organismal Systems
+map04660	Zm00001eb005220	Organismal Systems
+map04662	Zm00001eb023890	Organismal Systems
+map04664	Zm00001eb108620	Organismal Systems
+map04666	Zm00001eb001370	Organismal Systems
+map04668	Zm00001eb085760	Environmental Information Processing
+map04670	Zm00001eb208230	Organismal Systems
+map04710	Zm00001eb000020	Organismal Systems
+map04711	Zm00001eb045930	Organismal Systems
+map04712	Zm00001eb014850	Organismal Systems
+map04713	Zm00001eb015200	Organismal Systems
+map04714	Zm00001eb000800	Organismal Systems
+map04720	Zm00001eb011980	Organismal Systems
+map04721	Zm00001eb029450	Organismal Systems
+map04722	Zm00001eb015200	Organismal Systems
+map04723	Zm00001eb013640	Organismal Systems
+map04724	Zm00001eb001370	Organismal Systems
+map04725	Zm00001eb108620	Organismal Systems
+map04726	Zm00001eb108620	Organismal Systems
+map04727	Zm00001eb029450	Organismal Systems
+map04728	Zm00001eb005220	Organismal Systems
+map04730	Zm00001eb005220	Organismal Systems
+map04740	Zm00001eb015200	Organismal Systems
+map04742	ID_0079	Organismal Systems
+map04744	Zm00001eb015200	Organismal Systems
+map04745	Zm00001eb015200	Organismal Systems
+map04750	Zm00001eb011980	Organismal Systems
+map04810	Zm00001eb010370	Cellular Processes
+map04814	Zm00001eb000490	Cellular Processes
+map04910	Zm00001eb011940	Organismal Systems
+map04911	Zm00001eb242620	Organismal Systems
+map04912	Zm00001eb001370	Organismal Systems
+map04913	Zm00001eb040180	Organismal Systems
+map04914	Zm00001eb010020	Organismal Systems
+map04915	Zm00001eb012510	Organismal Systems
+map04916	Zm00001eb015200	Organismal Systems
+map04917	Zm00001eb040180	Organismal Systems
+map04918	Zm00001eb004790	Organismal Systems
+map04919	Zm00001eb013380	Organismal Systems
+map04920	Zm00001eb009430	Organismal Systems
+map04921	Zm00001eb011980	Organismal Systems
+map04922	Zm00001eb011940	Organismal Systems
+map04923	Zm00001eb025780	Organismal Systems
+map04924	Zm00001eb015200	Organismal Systems
+map04925	Zm00001eb015200	Organismal Systems
+map04926	Zm00001eb108620	Organismal Systems
+map04927	Zm00001eb040180	Organismal Systems
+map04928	Zm00001eb001370	Organismal Systems
+map04929	Zm00001eb108620	Organismal Systems
+map04930	Zm00001eb024280	Human Diseases
+map04931	Zm00001eb011980	Human Diseases
+map04932	Zm00001eb009430	Human Diseases
+map04933	Zm00001eb013380	Human Diseases
+map04934	Zm00001eb007220	Human Diseases
+map04935	Zm00001eb030540	Organismal Systems
+map04936	Zm00001eb006760	Human Diseases
+map04940	Zm00001eb010540	Human Diseases
+map04960	Zm00001eb108620	Organismal Systems
+map04961	Zm00001eb006850	Organismal Systems
+map04962	Zm00001eb006850	Organismal Systems
+map04964	Zm00001eb045790	Organismal Systems
+map04966	Zm00001eb119630	Organismal Systems
+map04970	Zm00001eb015200	Organismal Systems
+map04971	Zm00001eb015200	Organismal Systems
+map04972	Zm00001eb006850	Organismal Systems
+map04973	Zm00001eb141560	Organismal Systems
+map04974	Zm00001eb189540	Organismal Systems
+map04975	Zm00001eb019210	Organismal Systems
+map04976	Zm00001eb012760	Organismal Systems
+map04977	Zm00001eb030300	Organismal Systems
+map04978	Zm00001eb005820	Organismal Systems
+map04979	Zm00001eb003070	Organismal Systems
+map05010	Zm00001eb000490	Human Diseases
+map05012	Zm00001eb000490	Human Diseases
+map05014	Zm00001eb000490	Human Diseases
+map05016	Zm00001eb000490	Human Diseases
+map05017	Zm00001eb001350	Human Diseases
+map05020	Zm00001eb000490	Human Diseases
+map05022	Zm00001eb000490	Human Diseases
+map05030	ID_0537	Human Diseases
+map05031	Zm00001eb011980	Human Diseases
+map05032	Zm00001eb029450	Human Diseases
+map05033	Zm00001eb029450	Human Diseases
+map05034	Zm00001eb004730	Human Diseases
+map05100	Zm00001eb041920	Human Diseases
+map05110	Zm00001eb008550	Human Diseases
+map05111	Zm00001eb002740	Cellular Processes
+map05120	Zm00001eb119630	Human Diseases
+map05130	Zm00001eb000490	Human Diseases
+map05131	Zm00001eb000020	Human Diseases
+map05132	Zm00001eb000020	Human Diseases
+map05133	Zm00001eb010370	Human Diseases
+map05134	Zm00001eb004170	Human Diseases
+map05135	Zm00001eb011460	Human Diseases
+map05140	Zm00001eb017800	Human Diseases
+map05142	Zm00001eb005220	Human Diseases
+map05143	Zm00001eb056220	Human Diseases
+map05145	Zm00001eb002180	Human Diseases
+map05146	Zm00001eb169240	Human Diseases
+map05152	Zm00001eb010540	Human Diseases
+map05160	Zm00001eb005220	Human Diseases
+map05161	Zm00001eb017800	Human Diseases
+map05162	Zm00001eb003700	Human Diseases
+map05163	Zm00001eb015200	Human Diseases
+map05164	Zm00001eb002060	Human Diseases
+map05165	Zm00001eb005220	Human Diseases
+map05166	Zm00001eb002060	Human Diseases
+map05167	Zm00001eb009900	Human Diseases
+map05168	Zm00001eb011980	Human Diseases
+map05169	Zm00001eb010400	Human Diseases
+map05170	Zm00001eb000020	Human Diseases
+map05171	Zm00001eb002520	Human Diseases
+map05200	Zm00001eb000020	Human Diseases
+map05202	Zm00001eb001290	Human Diseases
+map05203	Zm00001eb009100	Human Diseases
+map05204	Zm00001eb002810	Human Diseases
+map05205	Zm00001eb011980	Human Diseases
+map05206	Zm00001eb001680	Human Diseases
+map05207	Zm00001eb002810	Human Diseases
+map05208	Zm00001eb001370	Human Diseases
+map05210	Zm00001eb015960	Human Diseases
+map05211	Zm00001eb030540	Human Diseases
+map05212	Zm00001eb001370	Human Diseases
+map05213	Zm00001eb108620	Human Diseases
+map05214	Zm00001eb015200	Human Diseases
+map05215	Zm00001eb030540	Human Diseases
+map05216	Zm00001eb108620	Human Diseases
+map05217	Zm00001eb204440	Human Diseases
+map05218	Zm00001eb089380	Human Diseases
+map05219	Zm00001eb089380	Human Diseases
+map05220	Zm00001eb089380	Human Diseases
+map05221	Zm00001eb015960	Human Diseases
+map05222	Zm00001eb089380	Human Diseases
+map05223	Zm00001eb089380	Human Diseases
+map05224	Zm00001eb015960	Human Diseases
+map05225	Zm00001eb000800	Human Diseases
+map05226	Zm00001eb012760	Human Diseases
+map05230	Zm00001eb019890	Human Diseases
+map05231	Zm00001eb001370	Human Diseases
+map05235	Zm00001eb015960	Human Diseases
+map05322	Zm00001eb004730	Human Diseases
+map05323	Zm00001eb010140	Human Diseases
+map05340	Zm00001eb110820	Human Diseases
+map05410	Zm00001eb013270	Human Diseases
+map05412	Zm00001eb056130	Human Diseases
+map05414	Zm00001eb056130	Human Diseases
+map05415	Zm00001eb002060	Human Diseases
+map05416	Zm00001eb106680	Human Diseases
+map05417	Zm00001eb010540	Human Diseases
+map05418	Zm00001eb002810	Human Diseases
+map07034	ID_0149	Drug Development
+map07035	ID_0149	Drug Development
+map07110	ID_0739	Drug Development
+map07216	ID_0911	Drug Development
+map07225	ID_0559	Drug Development
+map07225	ID_0651	Drug Development
+map05418	Zm00001eb034130	Human Diseases
+map05418	Zm00001eb041140	Human Diseases
+map05418	Zm00001eb048110	Human Diseases
+map05418	Zm00001eb054680	Human Diseases
+map05418	Zm00001eb058380	Human Diseases
+map05418	Zm00001eb059930	Human Diseases
+map05418	Zm00001eb061180	Human Diseases
+map05418	Zm00001eb075740	Human Diseases
+map05418	Zm00001eb081520	Human Diseases
+map05418	Zm00001eb093450	Human Diseases
+map05418	Zm00001eb093950	Human Diseases
+map05418	Zm00001eb094400	Human Diseases
+map05418	Zm00001eb101750	Human Diseases
+map05418	Zm00001eb110020	Human Diseases
+map05418	Zm00001eb118540	Human Diseases
+map05418	Zm00001eb122490	Human Diseases
+map05418	Zm00001eb123200	Human Diseases
+map05418	Zm00001eb124790	Human Diseases
+map05418	Zm00001eb128040	Human Diseases
+map05418	Zm00001eb129820	Human Diseases
+map05418	Zm00001eb133330	Human Diseases
+map05418	Zm00001eb137900	Human Diseases
+map05418	Zm00001eb138600	Human Diseases
+map05418	Zm00001eb141080	Human Diseases
+map05418	Zm00001eb143080	Human Diseases
+map05418	Zm00001eb149390	Human Diseases
+map05418	Zm00001eb152500	Human Diseases
+map05418	Zm00001eb162390	Human Diseases
+map05418	Zm00001eb162810	Human Diseases
+map05418	Zm00001eb170980	Human Diseases
+map05418	Zm00001eb173570	Human Diseases
+map05418	Zm00001eb190770	Human Diseases
+map05418	Zm00001eb195230	Human Diseases
+map05418	Zm00001eb196020	Human Diseases
+map05418	Zm00001eb199230	Human Diseases
+map05418	Zm00001eb199590	Human Diseases
+map05418	Zm00001eb208230	Human Diseases
+map05418	Zm00001eb212760	Human Diseases
+map05418	Zm00001eb217030	Human Diseases
+map05418	Zm00001eb228120	Human Diseases
+map05418	Zm00001eb230300	Human Diseases
+map05418	Zm00001eb232690	Human Diseases
+map05418	Zm00001eb248520	Human Diseases
+map05418	Zm00001eb256380	Human Diseases
+map05418	Zm00001eb259660	Human Diseases
+map05418	Zm00001eb272290	Human Diseases
+map05418	Zm00001eb273450	Human Diseases
+map05418	Zm00001eb277280	Human Diseases
+map05418	Zm00001eb279440	Human Diseases
+map05418	Zm00001eb281920	Human Diseases
+map05418	Zm00001eb286750	Human Diseases
+map05418	Zm00001eb288100	Human Diseases
+map05418	Zm00001eb290730	Human Diseases
+map05418	Zm00001eb291340	Human Diseases
+map05418	Zm00001eb292760	Human Diseases
+map05418	Zm00001eb302140	Human Diseases
+map05418	Zm00001eb315880	Human Diseases
+map05418	Zm00001eb316410	Human Diseases
+map05418	Zm00001eb328710	Human Diseases
+map05418	Zm00001eb331210	Human Diseases
+map05418	Zm00001eb333100	Human Diseases
+map05418	Zm00001eb337880	Human Diseases
+map05418	Zm00001eb338250	Human Diseases
+map05418	Zm00001eb352350	Human Diseases
+map05418	Zm00001eb353070	Human Diseases
+map05418	Zm00001eb353170	Human Diseases
+map05418	Zm00001eb353700	Human Diseases
+map05418	Zm00001eb354270	Human Diseases
+map05418	Zm00001eb356570	Human Diseases
+map05418	Zm00001eb356600	Human Diseases
+map05418	Zm00001eb364660	Human Diseases
+map05418	Zm00001eb370540	Human Diseases
+map05418	Zm00001eb370550	Human Diseases
+map05418	Zm00001eb372070	Human Diseases
+map05418	Zm00001eb383730	Human Diseases
+map05418	Zm00001eb383740	Human Diseases
+map05418	Zm00001eb389850	Human Diseases
+map05418	Zm00001eb393610	Human Diseases
+map05418	Zm00001eb395750	Human Diseases
+map05418	Zm00001eb395970	Human Diseases
+map05418	Zm00001eb402630	Human Diseases
+map05418	Zm00001eb409190	Human Diseases
+map05418	Zm00001eb411740	Human Diseases
+map05418	Zm00001eb418040	Human Diseases
+map05418	Zm00001eb418610	Human Diseases
+map05418	Zm00001eb431490	Human Diseases
+map05418	Zm00001eb433660	Human Diseases
+map05418	novel1122	Human Diseases
+map05417	Zm00001eb396830	Human Diseases
+map05417	Zm00001eb397600	Human Diseases
+map05417	Zm00001eb398020	Human Diseases
+map05417	Zm00001eb400020	Human Diseases
+map05417	Zm00001eb407510	Human Diseases
+map05417	Zm00001eb409950	Human Diseases
+map05417	Zm00001eb417810	Human Diseases
+map05417	Zm00001eb418610	Human Diseases
+map05417	Zm00001eb426060	Human Diseases
+map05417	Zm00001eb434570	Human Diseases
+map05417	novel1122	Human Diseases
+map05417	novel13254	Human Diseases
+map05417	novel5434	Human Diseases
+map05171	Zm00001eb261340	Human Diseases
+map05171	Zm00001eb261840	Human Diseases
+map05171	Zm00001eb262530	Human Diseases
+map05171	Zm00001eb270360	Human Diseases
+map05171	Zm00001eb271540	Human Diseases
+map05171	Zm00001eb272800	Human Diseases
+map05171	Zm00001eb273640	Human Diseases
+map05171	Zm00001eb273660	Human Diseases
+map05171	Zm00001eb273670	Human Diseases
+map05171	Zm00001eb273900	Human Diseases
+map05171	Zm00001eb278610	Human Diseases
+map05171	Zm00001eb281330	Human Diseases
+map05171	Zm00001eb281810	Human Diseases
+map05171	Zm00001eb282450	Human Diseases
+map05171	Zm00001eb282790	Human Diseases
+map05171	Zm00001eb282960	Human Diseases
+map05171	Zm00001eb283950	Human Diseases
+map05171	Zm00001eb285610	Human Diseases
+map05171	Zm00001eb289680	Human Diseases
+map05171	Zm00001eb289870	Human Diseases
+map05171	Zm00001eb294420	Human Diseases
+map05171	Zm00001eb295670	Human Diseases
+map05171	Zm00001eb295950	Human Diseases
+map05171	Zm00001eb296060	Human Diseases
+map05171	Zm00001eb301010	Human Diseases
+map05171	Zm00001eb301640	Human Diseases
+map05171	Zm00001eb303080	Human Diseases
+map05171	Zm00001eb303720	Human Diseases
+map05171	Zm00001eb304440	Human Diseases
+map05171	Zm00001eb304470	Human Diseases
+map05171	Zm00001eb305760	Human Diseases
+map05171	Zm00001eb307510	Human Diseases
+map05171	Zm00001eb317450	Human Diseases
+map05171	Zm00001eb317470	Human Diseases
+map05171	Zm00001eb317810	Human Diseases
+map05171	Zm00001eb321580	Human Diseases
+map05171	Zm00001eb321600	Human Diseases
+map05171	Zm00001eb327250	Human Diseases
+map05171	Zm00001eb327330	Human Diseases
+map05171	Zm00001eb327790	Human Diseases
+map05171	Zm00001eb328950	Human Diseases
+map05171	Zm00001eb330470	Human Diseases
+map05171	Zm00001eb330480	Human Diseases
+map05171	Zm00001eb332790	Human Diseases
+map05171	Zm00001eb335620	Human Diseases
+map05171	Zm00001eb340580	Human Diseases
+map05171	Zm00001eb342400	Human Diseases
+map05171	Zm00001eb343870	Human Diseases
+map05171	Zm00001eb344740	Human Diseases
+map05171	Zm00001eb346100	Human Diseases
+map05171	Zm00001eb347340	Human Diseases
+map05171	Zm00001eb347380	Human Diseases
+map05171	Zm00001eb348240	Human Diseases
+map05171	Zm00001eb348960	Human Diseases
+map05171	Zm00001eb351330	Human Diseases
+map05171	Zm00001eb352180	Human Diseases
+map05171	Zm00001eb359150	Human Diseases
+map05171	Zm00001eb359780	Human Diseases
+map05171	Zm00001eb360630	Human Diseases
+map05171	Zm00001eb361700	Human Diseases
+map05171	Zm00001eb362490	Human Diseases
+map05171	Zm00001eb364190	Human Diseases
+map05171	Zm00001eb365710	Human Diseases
+map05171	Zm00001eb369510	Human Diseases
+map05171	Zm00001eb373790	Human Diseases
+map05171	Zm00001eb374200	Human Diseases
+map05171	Zm00001eb374300	Human Diseases
+map05171	Zm00001eb376870	Human Diseases
+map05171	Zm00001eb378000	Human Diseases
+map05171	Zm00001eb379270	Human Diseases
+map05171	Zm00001eb380640	Human Diseases
+map05171	Zm00001eb383260	Human Diseases
+map05171	Zm00001eb384890	Human Diseases
+map05171	Zm00001eb386340	Human Diseases
+map05171	Zm00001eb386940	Human Diseases
+map05171	Zm00001eb392290	Human Diseases
+map05171	Zm00001eb393200	Human Diseases
+map05171	Zm00001eb394290	Human Diseases
+map05171	Zm00001eb394940	Human Diseases
+map05171	Zm00001eb396650	Human Diseases
+map05171	Zm00001eb396730	Human Diseases
+map05171	Zm00001eb398020	Human Diseases
+map05171	Zm00001eb398590	Human Diseases
+map05171	Zm00001eb400820	Human Diseases
+map05171	Zm00001eb401700	Human Diseases
+map05171	Zm00001eb402570	Human Diseases
+map05171	Zm00001eb405580	Human Diseases
+map05171	Zm00001eb414310	Human Diseases
+map05171	Zm00001eb415410	Human Diseases
+map05171	Zm00001eb415950	Human Diseases
+map05171	Zm00001eb417810	Human Diseases
+map05171	Zm00001eb418770	Human Diseases
+map05171	Zm00001eb420570	Human Diseases
+map05171	Zm00001eb422490	Human Diseases
+map05171	Zm00001eb426060	Human Diseases
+map05171	Zm00001eb426610	Human Diseases
+map05171	Zm00001eb430180	Human Diseases
+map05171	Zm00001eb430450	Human Diseases
+map05171	Zm00001eb430770	Human Diseases
+map05171	Zm00001eb431270	Human Diseases
+map05171	Zm00001eb442890	Human Diseases
+map05171	novel1197	Human Diseases
+map05171	novel12996	Human Diseases
+map05171	novel13067	Human Diseases
+map05171	novel13774	Human Diseases
+map05171	novel15291	Human Diseases
+map05171	novel15298	Human Diseases
+map05171	novel15660	Human Diseases
+map05171	novel17718	Human Diseases
+map05171	novel18984	Human Diseases
+map05171	novel19037	Human Diseases
+map05171	novel19523	Human Diseases
+map05171	novel20582	Human Diseases
+map05171	novel3842	Human Diseases
+map05171	novel5153	Human Diseases
+map05171	novel8145	Human Diseases
