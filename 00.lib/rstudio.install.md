@@ -12,15 +12,19 @@
 
 ## 下载安装
 
-RStudio：目前公认最好的 R 语言 IDE。
+RStudio：目前公认最好的 R 语言 IDE。下面3个请依次安装：
 
-R语言：[清华镜像下载-Windows](https://mirrors.tuna.tsinghua.edu.cn/CRAN/bin/windows/base/); [其他版本](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)
+> 安装时**推荐全部使用默认设置**，直接下一步；**更改了安装路径的，出问题自己解决**
 
-RTools(仅windows)：[Rtools-windows](https://cran.rstudio.com/bin/windows/Rtools/)
+> 国内网盘： https://cowtransfer.com/s/b84c50e93b8243；密码：w3l88t。（此链接2025年1月23过期）
 
-Rstudio下载：[rstudio-desktop](https://posit.co/download/rstudio-desktop/)
+1. R语言：[清华镜像下载-Windows](https://mirrors.tuna.tsinghua.edu.cn/CRAN/bin/windows/base/); [其他版本](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)
 
-依次下载安装，完成后双击打开Rstudio，**推荐全部使用默认设置**，直接下一步；**更改了安装路径的，出问题自己解决**。
+2. RTools(仅windows)：[Rtools-windows](https://cran.rstudio.com/bin/windows/Rtools/)
+
+3. Rstudio下载：[rstudio-desktop](https://posit.co/download/rstudio-desktop/)
+
+完成后双击打开Rstudio，如果出现一个选择的对话框，选择64位，点OK
 
 ## 基础设置
 
